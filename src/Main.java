@@ -4,5 +4,6 @@ public class Main {
         Test test = new Test();
         test.test();
         System.out.println("Hello World2!");
+        //good
     }
 }
