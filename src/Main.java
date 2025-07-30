@@ -5,5 +5,6 @@ public class Main {
         test.test();
         System.out.println("Hello World2!");
         //good
+        System.out.println("Hello World3!");
     }
 }
